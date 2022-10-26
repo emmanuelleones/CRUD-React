@@ -9,7 +9,7 @@ import {Eliminar} from './Eliminar.js';
 // import { render } from 'react-dom';
 
 
-const App = () => { // ESTO ES UN COMPONENTE
+const App = () => { // ESTO ES UN COMPONENTE  COMENTARIO DESDE GIT HUB
   return (
     <React.Fragment>
       <Registro />
